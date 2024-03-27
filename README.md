@@ -27,6 +27,6 @@ This project aims to predict stock prices using Twitter sentiment analysis. By a
 - Evaluation metrics such as Root Mean Squared Error (RMSE) and R-squared (R^2) scores are provided to assess the performance of the prediction model.
 
 ## Contributors
-- Supratim Banik: supratimbanik(https://github.com/supratimbanik)
+- Supratim Banik: [supratimbanik](https://github.com/supratimbanik)
 
 
