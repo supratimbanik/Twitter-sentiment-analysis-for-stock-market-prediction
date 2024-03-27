@@ -6,7 +6,7 @@ This project aims to predict stock prices using Twitter sentiment analysis. By a
 ## Setup Instructions
 1. Clone the repository to your local machine.
 2. Ensure you have Python 3.x installed.
-3. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Install the required dependencies by running `pip install -r "required_library_name"`.
 4. Download the necessary datasets: `TSLA_tweets.csv` and `TSLA_prices.csv`.
 5. Run the Jupyter notebook `stock_prediction.ipynb` to execute the code and generate predictions.
 
